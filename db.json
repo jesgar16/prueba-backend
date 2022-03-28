@@ -1,0 +1,104 @@
+{
+    "awards": [
+        {
+            "id": 1,
+            "name": "CARRO",
+            "stock": true
+        },
+        {
+            "id": 2,
+            "name": "MOTO",
+            "stock": true
+        },
+        {
+            "id": 3,
+            "name": "CASA",
+            "stock": true
+        },
+        {
+            "id": 4,
+            "name": "YATE",
+            "stock": true
+        },
+        {
+            "id": 5,
+            "name": "YET",
+            "stock": true
+        },
+        {
+            "id": 6,
+            "name": "XBOX",
+            "stock": true
+        },
+        {
+            "id": 7,
+            "name": "RELOJ",
+            "stock": true
+        },
+        {
+            "id": 8,
+            "name": "IPHONE",
+            "stock": true
+        },
+        {
+            "id": 9,
+            "name": "VIAJE",
+            "stock": true
+        },
+        {
+            "id": 10,
+            "name": "CRUCERO",
+            "stock": true
+        },
+        {
+            "id": 11,
+            "name": "DIADEMAS",
+            "stock": true
+        },
+        {
+            "id": 12,
+            "name": "TENIS",
+            "stock": true
+        },
+        {
+            "id": 13,
+            "name": "CAMISA",
+            "stock": true
+        },
+        {
+            "id": 14,
+            "name": "JEANS",
+            "stock": true
+        },
+        {
+            "id": 15,
+            "name": "CAMISETAS",
+            "stock": true
+        },
+        {
+            "id": 16,
+            "name": "MORRAL",
+            "stock": true
+        },
+        {
+            "id": 17,
+            "name": "COMPUTADOR",
+            "stock": true
+        },
+        {
+            "id": 18,
+            "name": "TABLET",
+            "stock": false
+        },
+        {
+            "id": 19,
+            "name": "ANILLO",
+            "stock": true
+        },
+        {
+            "id": 20,
+            "name": "MASNIÓN",
+            "stock": true
+        }
+    ]
+  }
