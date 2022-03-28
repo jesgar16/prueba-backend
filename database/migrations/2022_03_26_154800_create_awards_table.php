@@ -15,11 +15,12 @@ class CreateAwardsTable extends Migration
     {
         Schema::create('awards', function (Blueprint $table) {
             $table->id();
-            $table->string('name', 125);
-            $table->string('lastname', 125);
-            $table->string('address', 125);
-            $table->string('phone', 125);
-            $table->string('email', 255);
+            $table->string('name', 125)->nullable();
+            $table->string('lastname', 125)->nullable();
+            $table->string('address', 125)->nullable();
+            $table->string('phone', 125)->nullable();
+            $table->string('email', 255)->nullable();
+            $table->string('award', 255)->nullable();
             $table->timestamps();
         });
     }
