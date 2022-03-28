@@ -2,103 +2,102 @@
     "awards": [
         {
             "id": 1,
-            "name": "delectus aut autem",
+            "name": "CARRO",
             "stock": true
         },
         {
             "id": 2,
-            "name": "nam facilis",
+            "name": "MOTO",
             "stock": true
         },
         {
             "id": 3,
-            "name": "fugiat veniam",
+            "name": "CASA",
             "stock": true
         },
         {
             "id": 4,
-            "name": "tempora",
+            "name": "YATE",
             "stock": true
         },
         {
             "id": 5,
-            "name": "laboriosam",
+            "name": "YET",
             "stock": true
         },
         {
             "id": 6,
-            "name": "ratione quibusdam",
+            "name": "XBOX",
             "stock": true
         },
         {
             "id": 7,
-            "name": "illo expedita",
+            "name": "RELOJ",
             "stock": true
         },
         {
             "id": 8,
-            "name": "quo adipisci",
+            "name": "IPHONE",
             "stock": true
         },
         {
             "id": 9,
-            "name": "molestiae",
+            "name": "VIAJE",
             "stock": true
         },
         {
             "id": 10,
-            "name": "illo est ratione",
+            "name": "CRUCERO",
             "stock": true
         },
         {
             "id": 11,
-            "name": "vero rerum",
+            "name": "DIADEMAS",
             "stock": true
         },
         {
             "id": 12,
-            "name": "ipsa repellendus",
+            "name": "TENIS",
             "stock": true
         },
         {
             "id": 13,
-            "name": "et doloremque",
+            "name": "CAMISA",
             "stock": true
         },
         {
             "id": 14,
-            "name": "repellendus sunt",
+            "name": "JEANS",
             "stock": true
         },
         {
             "id": 15,
-            "name": "ab voluptatum",
+            "name": "CAMISETAS",
             "stock": true
         },
         {
-            "userId": 1,
             "id": 16,
-            "name": "accusamus eos",
+            "name": "MORRAL",
             "stock": true
         },
         {
             "id": 17,
-            "name": "quo laboriosam",
+            "name": "COMPUTADOR",
             "stock": true
         },
         {
             "id": 18,
-            "name": "dolorum est consequatur",
+            "name": "TABLET",
             "stock": false
         },
         {
             "id": 19,
-            "name": "molestiae ipsa",
+            "name": "ANILLO",
             "stock": true
         },
         {
             "id": 20,
-            "name": "ullam nobis",
+            "name": "MASNIÓN",
             "stock": true
         }
     ]
