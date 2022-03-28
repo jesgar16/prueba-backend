@@ -15,9 +15,7 @@ Aplicación web de prueba de conocimiento, desarrollada en Laravel 8.
 -> php artisan key:generate
 - Ejecutar migraciones y seed 
 -> php artisan migrate --seed
-- Instalar json-server
--> npm install
-- Iniciar Api Rest de premios (json-server)
+- Iniciar json-server Api Rest de premios
 -> npm start
 
 ### Credenciales de acceso
